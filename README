@@ -1,0 +1,19 @@
+* Requirement
+
+    NArray extension http://narray.rubyforge.org/
+
+* How to run the XOR examplar
+
+    $ruby bpnn.rb example.txt example.txt
+
+* License
+
+  This program is free software.
+  You can distribute/modify this program
+  under the same terms as Ruby itself.
+  NO WARRANTY.
+
+* Author
+
+    Kazuyuki Tanimura
+
